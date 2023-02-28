@@ -1,0 +1,16 @@
+    1  ipconfig
+    2  ifconfig
+    3  ip address show
+    4  ping 10.0.0.9
+    5  ip address show
+    6  ip link show
+    7  ip address show
+    8  pwd
+    9  pstree
+   10  ps -a -f -x
+   11  ps -a -f -x | more
+   12  top
+   13  man kill
+   14  echo $?
+   15  echo $$
+   16  history > worksheet4.log
